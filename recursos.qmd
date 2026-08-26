@@ -1,0 +1,32 @@
+---
+title: "Recursos y laboratorios"
+description: "Recursos abiertos para aprender mediante la práctica."
+---
+
+## Primeros recursos
+
+Esta sección reunirá progresivamente:
+
+- Datasets documentados
+- Laboratorios de datos
+- Plantillas para docentes
+- Casos aplicados
+- Notebooks reproducibles
+
+## Próximo recurso
+
+### Automatización de certificados para docentes
+
+Guía práctica para generar certificados de manera automatizada,
+reducir errores y ahorrar tiempo.
+
+**Estado:** en preparación.
+
+## Próximo laboratorio
+
+### Análisis de participación en actividades gamificadas
+
+Laboratorio con datos sintéticos para explorar participación,
+rendimiento y posibles señales de riesgo académico.
+
+**Estado:** en desarrollo.

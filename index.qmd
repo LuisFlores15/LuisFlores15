@@ -1,0 +1,76 @@
+---
+page-layout: full
+---
+
+::: {.hero}
+# Luis Fernando Flores Mejía
+
+## Datos · Inteligencia Artificial · Gamificación · Experiencias de aprendizaje · Transformación digital
+
+Soy ingeniero informático y docente. Diseño soluciones, proyectos y
+experiencias que conectan la tecnología con problemas reales de la
+educación y los negocios.
+
+[Explorar proyectos](proyectos.qmd){.btn .btn-primary}
+[Ver recursos docentes](recursos.qmd){.btn .btn-outline-primary}
+:::
+
+## Áreas de especialización
+
+:::: {.columns}
+
+::: {.column width="33%"}
+### Datos e inteligencia artificial
+
+Análisis de datos, learning analytics, automatización e inteligencia
+artificial aplicada a contextos educativos y empresariales.
+:::
+
+::: {.column width="33%"}
+### Gamificación y aprendizaje
+
+Diseño de experiencias, actividades y productos que incorporan
+mecánicas de juego con propósito educativo.
+:::
+
+::: {.column width="33%"}
+### Transformación digital
+
+Soluciones tecnológicas orientadas a mejorar procesos, servicios y
+experiencias en educación y negocios.
+:::
+
+::::
+
+## Proyectos destacados
+
+### Plataforma de aprendizaje gamificado
+
+Banco de preguntas reutilizable que permitirá crear experiencias como
+rompecabezas, carreras, aventuras y desafíos colaborativos.
+
+**Estado:** prototipo inicial en construcción.
+
+### Learning Analytics Rescue
+
+Propuesta para analizar participación, rendimiento y riesgo académico
+mediante datos educativos.
+
+**Estado:** diseño del caso y preparación del dataset.
+
+### Automatización educativa
+
+Recursos y soluciones para reducir tareas repetitivas y mejorar la
+productividad docente.
+
+**Estado:** primeras evidencias en preparación.
+
+[Conocer todos los proyectos](proyectos.qmd){.btn .btn-secondary}
+
+## EDU NEXT LEVEL
+
+EDU NEXT LEVEL es mi iniciativa EdTech para desarrollar soluciones de
+automatización, inteligencia artificial, analítica, gamificación y
+videojuegos educativos.
+
+[Conocer EDU NEXT LEVEL](proyectos.qmd#edu-next-level){.btn .btn-outline-secondary}

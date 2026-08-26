@@ -1,0 +1,56 @@
+---
+title: "Proyectos"
+description: "Proyectos educativos, tecnológicos y empresariales."
+---
+
+## Educación
+
+### Plataforma de aprendizaje gamificado
+
+**Problema:** las actividades de evaluación suelen ser repetitivas y
+poco adaptables.
+
+**Propuesta:** crear un banco de preguntas reutilizable que pueda
+transformarse en diferentes experiencias de juego.
+
+**Tecnologías previstas:** desarrollo web, inteligencia artificial,
+analítica y aprendizaje adaptativo.
+
+**Estado:** en construcción.
+
+### Learning Analytics Rescue
+
+**Problema:** las señales de baja participación o riesgo académico
+pueden identificarse demasiado tarde.
+
+**Propuesta:** analizar datos educativos para generar indicadores y
+oportunidades de intervención.
+
+**Estado:** diseño del laboratorio.
+
+## Negocios
+
+### Automatización de procesos
+
+Diseño de soluciones que reducen la digitación manual, organizan
+información y mejoran la trazabilidad de los procesos.
+
+**Estado:** casos en documentación.
+
+## Integración educación–negocios
+
+### Data Quest: Crisis en el aeropuerto
+
+Experiencia aplicada en la que los participantes investigan
+reclamaciones aeroportuarias y elaboran recomendaciones basadas en
+datos.
+
+**Estado:** caso en desarrollo.
+
+## EDU NEXT LEVEL {#edu-next-level}
+
+EDU NEXT LEVEL es un laboratorio EdTech orientado a crear soluciones
+de IA, datos, automatización, gamificación y videojuegos educativos.
+
+La marca personal presenta mi trayectoria, docencia e investigación.
+EDU NEXT LEVEL concentra el desarrollo y comercialización de soluciones.

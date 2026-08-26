@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Luis Fernando Flores Mejía"
+  description: "Datos, inteligencia artificial, gamificación, experiencias de aprendizaje y transformación digital."
+
+  navbar:
+    background: "#12304A"
+    foreground: "#FFFFFF"
+    search: true
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Perfil"
+        href: perfil.qmd
+      - text: "Docencia"
+        href: docencia.qmd
+      - text: "Proyectos"
+        href: proyectos.qmd
+      - text: "Recursos"
+        href: recursos.qmd
+      - text: "Publicaciones"
+        href: publicaciones.qmd
+      - text: "Contacto"
+        href: contacto.qmd
+
+  page-footer:
+    left: "© 2026 Luis Fernando Flores Mejía"
+    right: "Construido con Quarto y publicado en GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "Contenido"
+    smooth-scroll: true
+
+lang: es
+editor: visual

@@ -1,0 +1,45 @@
+---
+title: "Perfil"
+description: "Trayectoria profesional, docente y tecnológica."
+---
+
+## Presentación
+
+Soy ingeniero informático y docente, interesado en convertir la
+tecnología en experiencias útiles para estudiantes, docentes,
+instituciones educativas y organizaciones.
+
+Mi trabajo conecta cinco áreas:
+
+- Datos
+- Inteligencia artificial
+- Gamificación
+- Experiencias de aprendizaje
+- Transformación digital
+
+## Trayectoria docente
+
+He desarrollado experiencias formativas relacionadas con programación,
+ciencia de datos, sistemas de información, diseño de software,
+interacción humano–máquina e innovación digital.
+
+Mi enfoque combina fundamentos conceptuales, casos contextualizados,
+práctica aplicada y construcción de evidencias.
+
+## Experiencia profesional
+
+Participo en el diseño y desarrollo de soluciones tecnológicas,
+automatizaciones, sistemas de información y proyectos de transformación
+digital para educación y negocios.
+
+## Visión
+
+La tecnología educativa adquiere valor cuando permite comprender mejor
+un problema, tomar decisiones y crear experiencias significativas, no
+cuando solamente digitaliza una práctica tradicional.
+
+## EDU NEXT LEVEL
+
+Soy fundador de EDU NEXT LEVEL, iniciativa orientada a crear soluciones
+EdTech basadas en automatización, IA, analítica, gamificación y
+videojuegos educativos.

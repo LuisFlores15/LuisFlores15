@@ -1,0 +1,13 @@
+---
+title: "Publicaciones"
+description: "Artículos sobre tecnología, educación e innovación."
+---
+
+## Próxima publicación
+
+### Por qué conecto datos, IA, gamificación y transformación digital
+
+Un artículo sobre la relación entre mis áreas de trabajo y su
+aplicación para crear mejores experiencias en educación y negocios.
+
+**Estado:** en preparación.

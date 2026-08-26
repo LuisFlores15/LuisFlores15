@@ -1,0 +1,45 @@
+---
+title: "Docencia"
+description: "Áreas de enseñanza y experiencias formativas."
+---
+
+## Áreas de enseñanza
+
+### Datos e inteligencia artificial
+
+- Minería de Datos
+- Ciencia de Datos
+- Programación SAS
+- Inteligencia artificial aplicada
+- Learning analytics
+
+### Ingeniería y transformación digital
+
+- Sistemas de Información
+- Análisis y Diseño de Sistemas
+- Ingeniería de software
+- Transformación digital
+- Automatización de procesos
+
+### Diseño de experiencias
+
+- Interacción Hombre–Máquina
+- Diseño de productos y servicios
+- Gamificación
+- Experiencias de aprendizaje
+- Videojuegos educativos
+
+## Enfoque docente
+
+Cada experiencia formativa busca integrar:
+
+1. Comprensión conceptual.
+2. Aplicación en un contexto real.
+3. Práctica guiada.
+4. Producción de una evidencia.
+5. Reflexión sobre los resultados.
+
+## Materiales
+
+Los recursos, datasets y laboratorios abiertos se incorporarán
+progresivamente en la sección [Recursos](recursos.qmd).
