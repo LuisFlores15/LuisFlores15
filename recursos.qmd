@@ -29,4 +29,4 @@ reducir errores y ahorrar tiempo.
 Laboratorio con datos sintéticos para explorar participación,
 rendimiento y posibles señales de riesgo académico.
 
-**Estado:** en desarrollo.
+[Explorar el laboratorio en GitHub](https://github.com/LuisFlores15/laboratorio-datos-educativos){.btn .btn-primary}
