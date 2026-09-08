@@ -4,6 +4,20 @@ project:
 website:
   title: "Luis Fernando Flores Mejía"
   description: "Datos, inteligencia artificial, gamificación, experiencias de aprendizaje y transformación digital."
+  site-url: "https://luisfloresm.com"
+  open-graph:
+    locale: es_PE
+    site-name: "Luis Fernando Flores Mejía"
+  twitter-card: true
+  google-analytics:
+    tracking-id: "G-LGJQ3DMFR2"
+    anonymize-ip: true
+
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
+    language: es
 
   navbar:
     background: "#12304A"
