@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Recursos y laboratorios",
+    "section": "",
+    "text": "Esta sección reunirá progresivamente:\n\nDatasets documentados\nLaboratorios de datos\nPlantillas para docentes\nCasos aplicados\nNotebooks reproducibles"
+  },
+  {
+    "objectID": "recursos.html#primeros-recursos",
+    "href": "recursos.html#primeros-recursos",
+    "title": "Recursos y laboratorios",
+    "section": "",
+    "text": "Esta sección reunirá progresivamente:\n\nDatasets documentados\nLaboratorios de datos\nPlantillas para docentes\nCasos aplicados\nNotebooks reproducibles"
+  },
+  {
+    "objectID": "recursos.html#próximo-recurso",
+    "href": "recursos.html#próximo-recurso",
+    "title": "Recursos y laboratorios",
+    "section": "Próximo recurso",
+    "text": "Próximo recurso\n\nAutomatización de certificados para docentes\nGuía práctica para generar certificados de manera automatizada, reducir errores y ahorrar tiempo.\nEstado: en preparación."
+  },
+  {
+    "objectID": "recursos.html#próximo-laboratorio",
+    "href": "recursos.html#próximo-laboratorio",
+    "title": "Recursos y laboratorios",
+    "section": "Próximo laboratorio",
+    "text": "Próximo laboratorio\n\nAnálisis de participación en actividades gamificadas\nLaboratorio con datos sintéticos para explorar participación, rendimiento y posibles señales de riesgo académico.\nExplorar el laboratorio en GitHub"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Problema: las actividades de evaluación suelen ser repetitivas y poco adaptables.\nPropuesta: crear un banco de preguntas reutilizable que pueda transformarse en diferentes experiencias de juego.\nTecnologías previstas: desarrollo web, inteligencia artificial, analítica y aprendizaje adaptativo.\nEstado: en construcción.\n\n\n\nProblema: las señales de baja participación o riesgo académico pueden identificarse demasiado tarde.\nPropuesta: analizar datos educativos para generar indicadores y oportunidades de intervención.\nEstado: diseño del laboratorio."
+  },
+  {
+    "objectID": "proyectos.html#educación",
+    "href": "proyectos.html#educación",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Problema: las actividades de evaluación suelen ser repetitivas y poco adaptables.\nPropuesta: crear un banco de preguntas reutilizable que pueda transformarse en diferentes experiencias de juego.\nTecnologías previstas: desarrollo web, inteligencia artificial, analítica y aprendizaje adaptativo.\nEstado: en construcción.\n\n\n\nProblema: las señales de baja participación o riesgo académico pueden identificarse demasiado tarde.\nPropuesta: analizar datos educativos para generar indicadores y oportunidades de intervención.\nEstado: diseño del laboratorio."
+  },
+  {
+    "objectID": "proyectos.html#negocios",
+    "href": "proyectos.html#negocios",
+    "title": "Proyectos",
+    "section": "Negocios",
+    "text": "Negocios\n\nAutomatización de procesos\nDiseño de soluciones que reducen la digitación manual, organizan información y mejoran la trazabilidad de los procesos.\nEstado: casos en documentación."
+  },
+  {
+    "objectID": "proyectos.html#integración-educaciónnegocios",
+    "href": "proyectos.html#integración-educaciónnegocios",
+    "title": "Proyectos",
+    "section": "Integración educación–negocios",
+    "text": "Integración educación–negocios\n\nData Quest: Crisis en el aeropuerto\nExperiencia aplicada en la que los participantes investigan reclamaciones aeroportuarias y elaboran recomendaciones basadas en datos.\nEstado: caso en desarrollo."
+  },
+  {
+    "objectID": "proyectos.html#edu-next-level",
+    "href": "proyectos.html#edu-next-level",
+    "title": "Proyectos",
+    "section": "EDU NEXT LEVEL",
+    "text": "EDU NEXT LEVEL\nEDU NEXT LEVEL es un laboratorio EdTech orientado a crear soluciones de IA, datos, automatización, gamificación y videojuegos educativos.\nLa marca personal presenta mi trayectoria, docencia e investigación. EDU NEXT LEVEL concentra el desarrollo y comercialización de soluciones."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luis Fernando Flores Mejía",
+    "section": "",
+    "text": "Soy ingeniero informático y docente. Diseño soluciones, proyectos y experiencias que conectan la tecnología con problemas reales de la educación y los negocios.\nExplorar proyectos Ver recursos docentes"
+  },
+  {
+    "objectID": "index.html#datos-inteligencia-artificial-gamificación-experiencias-de-aprendizaje-transformación-digital",
+    "href": "index.html#datos-inteligencia-artificial-gamificación-experiencias-de-aprendizaje-transformación-digital",
+    "title": "Luis Fernando Flores Mejía",
+    "section": "",
+    "text": "Soy ingeniero informático y docente. Diseño soluciones, proyectos y experiencias que conectan la tecnología con problemas reales de la educación y los negocios.\nExplorar proyectos Ver recursos docentes"
+  },
+  {
+    "objectID": "index.html#áreas-de-especialización",
+    "href": "index.html#áreas-de-especialización",
+    "title": "Luis Fernando Flores Mejía",
+    "section": "Áreas de especialización",
+    "text": "Áreas de especialización\n\n\n\nDatos e inteligencia artificial\nAnálisis de datos, learning analytics, automatización e inteligencia artificial aplicada a contextos educativos y empresariales.\n\n\n\nGamificación y aprendizaje\nDiseño de experiencias, actividades y productos que incorporan mecánicas de juego con propósito educativo.\n\n\n\nTransformación digital\nSoluciones tecnológicas orientadas a mejorar procesos, servicios y experiencias en educación y negocios."
+  },
+  {
+    "objectID": "index.html#proyectos-destacados",
+    "href": "index.html#proyectos-destacados",
+    "title": "Luis Fernando Flores Mejía",
+    "section": "Proyectos destacados",
+    "text": "Proyectos destacados\n\nPlataforma de aprendizaje gamificado\nBanco de preguntas reutilizable que permitirá crear experiencias como rompecabezas, carreras, aventuras y desafíos colaborativos.\nEstado: prototipo inicial en construcción.\n\n\nLearning Analytics Rescue\nPropuesta para analizar participación, rendimiento y riesgo académico mediante datos educativos.\nEstado: diseño del caso y preparación del dataset.\n\n\nAutomatización educativa\nRecursos y soluciones para reducir tareas repetitivas y mejorar la productividad docente.\nEstado: primeras evidencias en preparación.\nConocer todos los proyectos"
+  },
+  {
+    "objectID": "index.html#edu-next-level",
+    "href": "index.html#edu-next-level",
+    "title": "Luis Fernando Flores Mejía",
+    "section": "EDU NEXT LEVEL",
+    "text": "EDU NEXT LEVEL\nEDU NEXT LEVEL es mi iniciativa EdTech para desarrollar soluciones de automatización, inteligencia artificial, analítica, gamificación y videojuegos educativos.\nConocer EDU NEXT LEVEL"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Estoy disponible para:\n\nTalleres y capacitación\nProyectos tecnológicos\nInnovación educativa\nColaboración académica\nDesarrollo de experiencias de aprendizaje\nConsultoría en datos, IA y transformación digital\n\nUbicación: Lima, Perú"
+  },
+  {
+    "objectID": "contacto.html#conversemos",
+    "href": "contacto.html#conversemos",
+    "title": "Contacto",
+    "section": "",
+    "text": "Estoy disponible para:\n\nTalleres y capacitación\nProyectos tecnológicos\nInnovación educativa\nColaboración académica\nDesarrollo de experiencias de aprendizaje\nConsultoría en datos, IA y transformación digital\n\nUbicación: Lima, Perú"
+  },
+  {
+    "objectID": "contacto.html#canales-profesionales",
+    "href": "contacto.html#canales-profesionales",
+    "title": "Contacto",
+    "section": "Canales profesionales",
+    "text": "Canales profesionales\n\nLinkedIn: enlace por incorporar\nGitHub: enlace por incorporar\nCorreo profesional: por incorporar\n\nLos datos definitivos se añadirán antes de publicar oficialmente el portal."
+  },
+  {
+    "objectID": "docencia.html",
+    "href": "docencia.html",
+    "title": "Docencia",
+    "section": "",
+    "text": "Minería de Datos\nCiencia de Datos\nProgramación SAS\nInteligencia artificial aplicada\nLearning analytics\n\n\n\n\n\nSistemas de Información\nAnálisis y Diseño de Sistemas\nIngeniería de software\nTransformación digital\nAutomatización de procesos\n\n\n\n\n\nInteracción Hombre–Máquina\nDiseño de productos y servicios\nGamificación\nExperiencias de aprendizaje\nVideojuegos educativos"
+  },
+  {
+    "objectID": "docencia.html#áreas-de-enseñanza",
+    "href": "docencia.html#áreas-de-enseñanza",
+    "title": "Docencia",
+    "section": "",
+    "text": "Minería de Datos\nCiencia de Datos\nProgramación SAS\nInteligencia artificial aplicada\nLearning analytics\n\n\n\n\n\nSistemas de Información\nAnálisis y Diseño de Sistemas\nIngeniería de software\nTransformación digital\nAutomatización de procesos\n\n\n\n\n\nInteracción Hombre–Máquina\nDiseño de productos y servicios\nGamificación\nExperiencias de aprendizaje\nVideojuegos educativos"
+  },
+  {
+    "objectID": "docencia.html#enfoque-docente",
+    "href": "docencia.html#enfoque-docente",
+    "title": "Docencia",
+    "section": "Enfoque docente",
+    "text": "Enfoque docente\nCada experiencia formativa busca integrar:\n\nComprensión conceptual.\nAplicación en un contexto real.\nPráctica guiada.\nProducción de una evidencia.\nReflexión sobre los resultados."
+  },
+  {
+    "objectID": "docencia.html#materiales",
+    "href": "docencia.html#materiales",
+    "title": "Docencia",
+    "section": "Materiales",
+    "text": "Materiales\nLos recursos, datasets y laboratorios abiertos se incorporarán progresivamente en la sección Recursos."
+  },
+  {
+    "objectID": "perfil.html",
+    "href": "perfil.html",
+    "title": "Perfil",
+    "section": "",
+    "text": "Soy ingeniero informático y docente, interesado en convertir la tecnología en experiencias útiles para estudiantes, docentes, instituciones educativas y organizaciones.\nMi trabajo conecta cinco áreas:\n\nDatos\nInteligencia artificial\nGamificación\nExperiencias de aprendizaje\nTransformación digital"
+  },
+  {
+    "objectID": "perfil.html#presentación",
+    "href": "perfil.html#presentación",
+    "title": "Perfil",
+    "section": "",
+    "text": "Soy ingeniero informático y docente, interesado en convertir la tecnología en experiencias útiles para estudiantes, docentes, instituciones educativas y organizaciones.\nMi trabajo conecta cinco áreas:\n\nDatos\nInteligencia artificial\nGamificación\nExperiencias de aprendizaje\nTransformación digital"
+  },
+  {
+    "objectID": "perfil.html#trayectoria-docente",
+    "href": "perfil.html#trayectoria-docente",
+    "title": "Perfil",
+    "section": "Trayectoria docente",
+    "text": "Trayectoria docente\nHe desarrollado experiencias formativas relacionadas con programación, ciencia de datos, sistemas de información, diseño de software, interacción humano–máquina e innovación digital.\nMi enfoque combina fundamentos conceptuales, casos contextualizados, práctica aplicada y construcción de evidencias."
+  },
+  {
+    "objectID": "perfil.html#experiencia-profesional",
+    "href": "perfil.html#experiencia-profesional",
+    "title": "Perfil",
+    "section": "Experiencia profesional",
+    "text": "Experiencia profesional\nParticipo en el diseño y desarrollo de soluciones tecnológicas, automatizaciones, sistemas de información y proyectos de transformación digital para educación y negocios."
+  },
+  {
+    "objectID": "perfil.html#visión",
+    "href": "perfil.html#visión",
+    "title": "Perfil",
+    "section": "Visión",
+    "text": "Visión\nLa tecnología educativa adquiere valor cuando permite comprender mejor un problema, tomar decisiones y crear experiencias significativas, no cuando solamente digitaliza una práctica tradicional."
+  },
+  {
+    "objectID": "perfil.html#edu-next-level",
+    "href": "perfil.html#edu-next-level",
+    "title": "Perfil",
+    "section": "EDU NEXT LEVEL",
+    "text": "EDU NEXT LEVEL\nSoy fundador de EDU NEXT LEVEL, iniciativa orientada a crear soluciones EdTech basadas en automatización, IA, analítica, gamificación y videojuegos educativos."
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Un artículo sobre la relación entre mis áreas de trabajo y su aplicación para crear mejores experiencias en educación y negocios.\nEstado: en preparación."
+  },
+  {
+    "objectID": "publicaciones.html#próxima-publicación",
+    "href": "publicaciones.html#próxima-publicación",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Un artículo sobre la relación entre mis áreas de trabajo y su aplicación para crear mejores experiencias en educación y negocios.\nEstado: en preparación."
+  }
+]
